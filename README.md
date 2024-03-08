@@ -1,10 +1,10 @@
-# Hello there 👋👋👋
+# Data Pre-processing and Visualization
 
 <p align="center">
   <img src='pics/data.svg'  width='700'/>
 </p>
 
-
+Hello there 👋👋👋
 + This repository is meant to act as a journal, notebook, or record of my progress throughout my learning process 📓 
 + I've included notes/comments expressing my understanding of the concepts, references to official documentation, and loads of fun exercises—all while working with real-world Datasets.  
 + What's the end goal after this, you might ask? This should be a launchpad from which I wish to land softly into Machine Learning.
