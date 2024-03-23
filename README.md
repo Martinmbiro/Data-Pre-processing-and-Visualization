@@ -17,7 +17,7 @@ Hello there 👋👋👋
 4. [x] ~~Indexing and sorting~~
 5. [x] ~~Filtering DataFrames~~
 6. [x] ~~Adding / Removing columns & rows from a DataFrame~~
-7. [ ] Updating values
+7. [x] ~~Updating values~~
 8. [ ] Working with types and `Na` values
 9. [ ] Working with Dates and Time
 10. [ ] `Matplotlib`
