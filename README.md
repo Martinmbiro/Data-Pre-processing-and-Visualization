@@ -18,10 +18,10 @@ Hello there 👋👋👋
 5. [x] ~~Filtering DataFrames~~
 6. [x] ~~Adding / Removing columns & rows from a DataFrame~~
 7. [x] ~~Updating values~~
-8. [ ] Working with types and `Na` values
-9. [ ] Working with Dates and Time
-10. [ ] `Matplotlib`
-11. [ ] Revisiting plotting with pandas
+8. [x] ~~Working with types and `Na` values~~
+9. [x] ~~Working with Dates and Time~~
+10. [x] ~~`Matplotlib`~~
+11. [x] ~~Revisiting plotting with pandas~~
 12. [ ] Grouping and aggregating
 13. [ ] Hierarchical indexing
 14. [ ] Working with text
