@@ -27,17 +27,17 @@ Hello there 👋👋👋
 14. [ ] Working with text
 15. [ ] `Apply`, `Map` & `Applymap`
 16. [ ] Combining Series and DataFrames
-17. [ ] `Seaborn`
+17. [ ] `seaborn`
 18. [ ] Seaborn categorical plots
 19. [ ] Controlling Seaborn Aesthetics
 
 ## Tools ⚒
-1. [Google Colab](https://colab.google/) - A hosted Jupyter Notebook service by Google.
-2. [Matplotlib](https://matplotlib.org/) - A comprehensive library for making static, animated, and interactive visualizations in Python.
-3. [Seaborn](https://seaborn.pydata.org/) - A Python data visualization library based on Matplotlib.
-4. [Pandas](https://pandas.pydata.org/docs/index.html) - An open-source data analysis and manipulation tool built on top of Python programming language.
+1. [`Google Colab`](https://colab.google/) - A hosted Jupyter Notebook service by Google.
+2. [`matplotlib`](https://matplotlib.org/) - A comprehensive library for making static, animated, and interactive visualizations in Python.
+3. [`seaborn`](https://seaborn.pydata.org/) - A Python data visualization library based on Matplotlib.
+4. [`pandas`](https://pandas.pydata.org/docs/index.html) - An open-source data analysis and manipulation tool built on top of Python programming language.
 
 
 ## Datasets 📚
-+ Due to the substantial size of the Datasets used, the datasets could not be included here 💔
-+ However, they can be downloaded from the [Kaggle](https://www.kaggle.com/datasets) website.
++ Due to the substantial size of the Datasets used, the datasets could not be included in this repository 💔 but can be found in this drive folder [`here`](https://drive.google.com/drive/folders/1LgOQtAIGLO0bkD3RoQtwxjmLmKjPLWCC?usp=drive_link) 
++ However, they can be downloaded from the [`Kaggle`](https://www.kaggle.com/datasets) website.
